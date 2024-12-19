@@ -6,7 +6,7 @@
     "website" : "www.unikerp.com",
     "category" : "UNIKerp", 
     "description": """ Demo de la comité d'entreprise""",
-    "depends": ['base','sale_management'],
+    "depends": ['base','sale_management','contacts'],
     'data': [
         
     ],
